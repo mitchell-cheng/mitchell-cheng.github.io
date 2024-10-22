@@ -90,10 +90,7 @@
       "name": "Programming",
       "level": "Learning",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Frontend Development",
-        "Machine Learning"
-      ]
+      "keywords": ["Frontend Development", "Machine Learning"]
     }
   ],
   "languages": [
@@ -117,50 +114,30 @@
     {
       "name": "Technology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Software Development",
-        "Artificial Intelligence"
-      ]
+      "keywords": ["Software Development", "Artificial Intelligence"]
     },
     {
       "name": "Movie",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Thriller",
-        "Sci-fi",
-        "History"
-      ]
+      "keywords": ["Thriller", "Sci-fi", "History"]
     },
     {
       "name": "Books",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Sci-fi",
-        "Literature",
-        "Bio"        
-      ]
+      "keywords": ["Sci-fi", "Literature", "Bio"]
     },
     {
       "name": "Music",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Soundtracks",
-        "Folk",
-        "Whitenoise"
-      ]
+      "keywords": ["Soundtracks", "Folk", "Whitenoise"]
     },
     {
       "name": "Game",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "FPS",
-        "TPS",
-        "RPG"
-      ]
+      "keywords": ["FPS", "TPS", "RPG"]
     }
   ],
-  "references": [
-  ],
+  "references": [],
   "projects": [
     {
       "name": "Educational Algorithms Game",
