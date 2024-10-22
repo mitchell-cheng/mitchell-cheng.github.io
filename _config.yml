@@ -88,8 +88,8 @@ keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: mitchell-cheng-a48075297 # your LinkedIn user name
-mastodon_username: @Mitchell_Cheng # your mastodon instance+username in the format instance.tld/@username
-medium_username: @chengbotier1 # your Medium username
+mastodon_username: "@Mitchell_Cheng" # your mastodon instance+username in the format instance.tld/@username
+medium_username: "@chengbotier1" # your Medium username
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -313,11 +313,11 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cheng]
+  first_name: [Mitchell]
 
   style: apa
-  locale: en
+  locale: cn
 
   source: /_bibliography/
   bibliography: papers.bib
