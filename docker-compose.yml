@@ -14,3 +14,10 @@ services:
       sh -c "apt-get update && apt-get install -y nodejs &&
              bundle install &&
              bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0"
+    develop:
+      watch:
+        - action: sync
+          path: ./src
+          target: /app/src
+          ignore:
+            - node_modules/
